@@ -68,6 +68,7 @@ const Footer = () => {
         {/* Bottom Text */}
         <div className="text-center mt-8 text-sm">
           <p>&copy; 2024 All rights reserved <span className="text-teal font-bold">CertiMark</span>.| Developed By - <Link target="_blank" className="text-lightTeal font-bold hover:underline">Md.Juwel Rana</Link></p>
+          
         </div>
       </div>
     </footer>
